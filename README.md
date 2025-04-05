@@ -19,14 +19,9 @@ A Turning Test is a test to evaluate a machine's ability to exhibit human like i
 
 I was unable to complete the TinyTroupe exercise due to ongoing 'stream' error messages that occurred every time I attempted to run the code. I tried generating new API keys for both OpenAI and Hugging Face, updated the config.ini file, and confirmed that it was being properly read by the program. I also experimented with different models like gpt-3.5-turbo and sought help from ChatGPT, following various troubleshooting steps including editing the source code. Despite spending several hours trying to resolve the issue, I was not able to get TinyTroupe to function correctly. I believe the problem may be related to the library’s use of streaming, which I was unable to disable successfully in my environment.
 
-```bash 
 
 
 
 
 
 
-```
-
-
-Here's my comment: I think the bot passed the Turning Test. Here is why
