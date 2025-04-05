@@ -5,10 +5,10 @@
 1. How to install 'tinytroupe' packages?
 
 git clone https://github.com/[username]/tinytroupe.git
-change directory into the tinytroupe folder
-cd tinytroupe
-install the package
-pip install .
+;change directory into the tinytroupe folder
+;cd tinytroupe
+;install the package
+;pip install .
 
 2. What is Turning Test? In today's world with large language model (LLMs), what is the definition of Turning Test?
 
